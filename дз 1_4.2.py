@@ -6,4 +6,5 @@ def palindrom(s):
         return False
 
 
+
 print(palindrom(s))
